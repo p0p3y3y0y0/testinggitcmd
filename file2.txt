@@ -1,3 +1,16 @@
 This is just a sample text for testing
 tetsing the scond commit
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 new testing hotfix
+=======
++++++QQqq
+>>>>>>> Stashed changes
+=======
++++++QQqq
+>>>>>>> Stashed changes
+=======
++++++QQqq
+>>>>>>> Stashed changes
+pppdww
