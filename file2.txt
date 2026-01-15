@@ -6,11 +6,4 @@ tetsing the scond commit
 new testing hotfix
 =======
 +++++QQqq
->>>>>>> Stashed changes
-=======
-+++++QQqq
->>>>>>> Stashed changes
-=======
-+++++QQqq
->>>>>>> Stashed changes
-pppdww
+>>>>>>> S
